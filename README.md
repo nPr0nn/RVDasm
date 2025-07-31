@@ -1,7 +1,6 @@
 # RVDasm - A Simple RISC-V Disassembler
 
-**RVDasm** is a lightweight, command-line disassembler for 32-bit RISC-V ELF (Executable and Linkable Format) files.  
-It's written in C and designed to be a simple, educational tool for understanding the basics of executable file formats and assembly language.
+**RVDasm** is a lightweight, command-line disassembler for 32-bit RISC-V ELF (Executable and Linkable Format) files. It's written in C and designed to be a simple, educational tool for understanding the basics of executable file formats and assembly language.
 
 ---
 
@@ -26,8 +25,7 @@ It's written in C and designed to be a simple, educational tool for understandin
 
 ## Building
 
-The project uses a standard `Makefile` for easy compilation.  
-Make sure you have `gcc` and `make` installed on your system.
+The project uses a standard `Makefile` for easy compilation. Make sure you have `gcc` and `make` installed on your system.
 
 To build the project, run:
 
